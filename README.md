@@ -1,3 +1,3 @@
 # study-test
 
-知识学习一下GitHub的使用
+只是学习一下GitHub的使用
